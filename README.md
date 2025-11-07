@@ -40,11 +40,6 @@ body{margin:0;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, '
 
 <div class='container'>
 <div class='controls'>
-<input id='search' placeholder='Ara: örn. Aşkım' />
-<button class='button' onclick='copyAll()'></button>
-<button class='button' onclick='shuffleList()' style='background:#b21d1d'></button>
-</div>
-
 <div id='grid' class='grid'
 <div class='card' data-text='Aşkım, bakışın beni tamamlıyor.'>
 <p><span class='heart'>❤️</span>Aşkım, bakışın beni tamamlıyor.</p>

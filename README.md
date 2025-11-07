@@ -8,7 +8,7 @@
 :root{--bg:#0e0b0b;--card:#1b0f12;--accent:#d92b2b;--muted:#c9bdbd}
 body{margin:0;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;background:linear-gradient(180deg,#0b0a0a 0%, #1a0f0f 60%);color:#fff;-webkit-font-smoothing:antialiased;}
 .header{padding:40px 20px;text-align:center;background:linear-gradient(180deg, rgba(217,43,43,0.06), transparent);backdrop-filter: blur(2px);}
-.title{font-size:28px;margin:0 0 6px;font-weight:700;letter-spacing:0.3px}
+.title{font-size:30px;margin:0 0 6px;font-weight:700;letter-spacing:0.3px}
 .subtitle{margin:0;color:var(--muted)}
 
 /* container */
@@ -34,15 +34,15 @@ body{margin:0;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, '
 </head>
 <body>
 <div class='header'>
-<div class='title'>1000 Romantik İltifat — Red Spider Lily Teması</div>
-<div class='subtitle'>Bu iltifatları sevgiline hızlıca kopyalayıp gönderebilirsin. ❤️🌺</div>
+<div class='title'></div>
+<div class='subtitle'></div>
 </div>
 
 <div class='container'>
 <div class='controls'>
 <input id='search' placeholder='Ara: örn. Aşkım' />
-<button class='button' onclick='copyAll()'>Tümünü Kopyala</button>
-<button class='button' onclick='shuffleList()' style='background:#b21d1d'>Karıştır</button>
+<button class='button' onclick='copyAll()'></button>
+<button class='button' onclick='shuffleList()' style='background:#b21d1d'></button>
 </div>
 
 <div id='grid' class='grid'>
@@ -77,10 +77,10 @@ body{margin:0;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, '
 <div class='card' data-text='Aşkım, bakışın beni tamamlıyor Seni seviyorum.'>
 <p><span class='heart'>❤️</span>Aşkım, bakışın beni tamamlıyor Seni seviyorum.</p>
 </div>
-<!-- ... (Toplam 1000 kart sayfada yer alır; burada örnek amaçlı ilk öğeler gösterildi) -->
-<!-- İLTİFATLAR BİTİŞ -->
+<!-- ... (-->
+<!-- -->
 </div> <!-- grid -->
-<div class='footer'>Sayfa otomatik oluşturuldu — İstediğin zaman düzenleyebilirsin.</div>
+<div class='footer'></div>
 
 <script>
 const grid = document.getElementById('grid');

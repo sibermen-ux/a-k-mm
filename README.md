@@ -69,7 +69,70 @@ body{margin:0;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, '
 </div>
 <div class='card' data-text='Aşkım, bakışın beni tamamlıyor Seni seviyorum.'>
 <p><span class='heart'>❤️</span>Aşkım, bakışın beni tamamlıyor Seni seviyorum.</p>
-</div>
+</div><div class='card'><p><span class='heart'>❤️</span>Senin gülüşün günümü aydınlatıyor.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen yanımdayken her şey daha güzel görünüyor.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle konuşmak en sevdiğim an.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sesin kalbime huzur veriyor.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Senin yanında kendimi tamamlanmış hissediyorum.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Gözlerin bana bambaşka bir dünya gösteriyor.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Senin sevginle güç buluyorum.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Varlığın hayatımı renklendiriyor.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en değerli hazinemsin.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle her an bir macera.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle her şey anlam kazanıyor.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Gülüşün içimi ısıtıyor.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Senin bakışların kalbimi eritir.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle zaman duruyor gibi.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en büyük şansımsın.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Senin yanında kendimi özgür hissediyorum.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Her dokunuşun beni büyülüyor.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Senin varlığın bana huzur veriyor.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle her gün daha güzel.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle hayat daha anlamlı.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Senin gülüşün güneş gibi.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle her an özel.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sesin ruhumu okşuyor.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Senin sevgin bana güç veriyor.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en tatlı düşümsün.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle kahkahalar daha güzel.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Gözlerin yıldızlar gibi parlak.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle hayat bir masal.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en güvenli limanımsın.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle her şey mümkün.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Senin yanında kalbim rahat.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Senin sevgini hissedince mutluluk doluyorum.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en değerli hazinemsin.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle her an özel ve anlamlı.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle kahkahalarımı paylaşmak en güzel şey.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en güzel tesadüfümsün.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle dünya daha renkli.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle hayatım tamamlanıyor.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle her gün bir hediye.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en sıcak yuvamsın.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle geçirdiğim anılar unutulmaz.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Senin yanında kendimi özel hissediyorum.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en değerli parçam.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle her gün bir şiir.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle kahkaha hiç bitmesin.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle dünya bir renk cümbüşü.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en güzel ilham kaynağımsın.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle her an büyülü.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle göz göze gelmek mutluluk.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en güvenli limanımsın.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle hayat daha hafif.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle her gün özel bir gün.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en güzel yanım.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle zaman akıp geçiyor.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle kahkaha dolu anlar.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en parlak yıldızımsın.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Senin yanında her şey kolay.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle her an bir kutlama.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en değerli hazinemsin.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle hayat daha anlamlı.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle kahkaha ve mutluluk bir arada.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Sen benim en güzel rüyamsın.</p></div>
+<div class='card'><p><span class='heart'>❤️</span>Seninle zaman duruyor gibi.</p></div>
+
 <!-- ... (-->
 <!-- -->
 </div> <!-- grid -->

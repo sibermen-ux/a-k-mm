@@ -40,7 +40,7 @@ body{margin:0;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, '
 
 <div class='container'>
 <div class='controls'>
-<div id='grid' class='grid'
+<div
 <div class='card' data-text='Aşkım, bakışın beni tamamlıyor.'>
 <p><span class='heart'>❤️</span>Aşkım, bakışın beni tamamlıyor.</p>
 </div>

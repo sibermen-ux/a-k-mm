@@ -45,8 +45,7 @@ body{margin:0;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, '
 <button class='button' onclick='shuffleList()' style='background:#b21d1d'></button>
 </div>
 
-<div id='grid' class='grid'>
-<!-- İLTİFATLAR BAŞLANGIÇ -->
+<div id='grid' class='grid'
 <div class='card' data-text='Aşkım, bakışın beni tamamlıyor.'>
 <p><span class='heart'>❤️</span>Aşkım, bakışın beni tamamlıyor.</p>
 </div>
